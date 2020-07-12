@@ -17,3 +17,9 @@ HTML/CSS %89 - React/JS %55 - Flutter %10 - WordPress %100 - PHP %32
 🔑 Keybase: [@kaanmutlu](https://keybase.io/kaanmutlu) - 🤳 Instagram: [@kaanmutlu17](https://instagram.com/kaanmutlu17) - 🐦 Twitter: [@kaanmtl17](https://twitter.com/kaanmtl17)
 
 Business Inquiries: kaan@kaanmutlu.com.tr
+
+## 💸 Payment Details
+
+Name Surname: Kaan MUTLU
+IBAN: GB91CLJU04130780118425
+BIC: CLJUGB21
