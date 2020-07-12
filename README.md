@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, My Name is Kaan 👋
 
-<!--
-**kaanmutlu17/kaanmutlu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Kaan Mutlu. I am Frontend Web Developer, System Administrator and Network Manager. I usually writing codes and listening to music.
 
-Here are some ideas to get you started:
+## 🎈 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[DepremX](https://depremx.org): DepremX is a earthquake technologies project.
+
+## ⚡️ My Skills
+
+HTML/CSS %89 - React/JS %55 - Flutter %10 - WordPress %100 - PHP %32
+
+## 📫 Contact
+
+🔑 Keybase: [@kaanmutlu](https://keybase.io/kaanmutlu) - 🤳 Instagram: [@kaanmutlu17](https://instagram.com/kaanmutlu17) - 🐦 Twitter: [@kaanmtl17](https://twitter.com/kaanmtl17)
+
+Business Inquiries: kaan@kaanmutlu.com.tr
