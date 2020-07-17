@@ -10,7 +10,7 @@ Hello, my name is Kaan Mutlu. I am Frontend Web Developer, System Administrator 
 
 ## ⚡️ My Skills
 
-HTML/CSS %89 - React/JS %55 - Flutter %10 - WordPress %100 - PHP %32
+HTML/CSS %100 - Vue/Nuxt/React/JS %55 - Flutter %10 - WordPress %100 - PHP %32
 
 ## 📫 Contact
 
