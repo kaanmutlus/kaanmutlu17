@@ -4,16 +4,8 @@
 
 Hello, my name is Kaan Mutlu. I am Frontend Web Developer, System Administrator and Network Manager. I usually writing codes and listening to music.
 
-## 🎈 My Projects
-
-[DepremX](https://depremx.org): DepremX is a earthquake technologies project.
-
-## ⚡️ My Skills
-
-HTML/CSS %100 - Vue/Nuxt/React/JS %55 - Flutter %10 - WordPress %100 - PHP %32
-
 ## 📫 Contact
 
-🔑 Keybase: [@kaanmutlu](https://keybase.io/kaanmutlu) - 🤳 Instagram: [@kaanmutlu17](https://instagram.com/kaanmutlu17) - 🐦 Twitter: [@kaanmtl17](https://twitter.com/kaanmtl17)
+🔑 Keybase: [@kaanmutlu](https://keybase.io/kaanmutlu) - ⛓ Web: [kaanmutlu.com.tr](https://kaanmutlu.com.tr)
 
-Business Inquiries: kaan@kaanmutlu.com.tr
+📧 Mail: kaan@kaanmutlu.com.tr
