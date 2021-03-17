@@ -1,4 +1,4 @@
-### Hey, My Name is Kaan 👋
+### Hey, I'm Kaan 👋
 
 Hello, my name is Kaan Mutlu. I am Frontend Web Developer, System Administrator and Network Manager. I usually writing codes and listening to music.
 
