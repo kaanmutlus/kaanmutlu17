@@ -6,6 +6,6 @@ Hello, my name is Kaan Mutlu. I am Frontend Web Developer, System Administrator 
 
 ## 📫 Contact
 
-🔑 Keybase: [@kaanmutlu](https://keybase.io/kaanmutlu) - ⛓ Web: [kaanmutlu.com.tr](https://kaanmutlu.com.tr)
-
+🔑 Keybase · [@kaanmutlu](https://keybase.io/kaanmutlu)
+⛓ Web: [kaanmutlu.com.tr](https://kaanmutlu.com.tr)
 📧 Mail: kaan@kaanmutlu.com.tr
