@@ -8,7 +8,7 @@ CEO & Founder of Sanvia Digital | Software Developer
 
 Hello, I'm Kaan Mutlu. I am a 16 year old software developer. I am also the Ceo & Founder of the Sanvia Digital media company. You can click the mail icon to contact me.
 
-### ✉️ Contact
+### ✨ Contact
 
 ✉️ E-Mail: [kaan@kaan.sh](mailto:kaan@kaan.sh)  
 
