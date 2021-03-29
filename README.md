@@ -1,4 +1,4 @@
-## Hey, I'm Kaan 👋
+## 🦄 Hey, I'm Kaan 👋
 
 CEO & Founder of Sanvia Digital | Software Developer
 
