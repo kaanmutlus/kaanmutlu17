@@ -1,7 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/kaanmutlu17/kaanmutlu17/master/banner.png)
 
---
-
 ## 🦄 Hey, I'm Kaan 👋
 
 CEO & Founder of Sanvia Digital | Software Developer
